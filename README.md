@@ -19,7 +19,7 @@ General responsive Showcase website with a contact form taking general details a
 ### Connect with me:
 
 [<img align="left" alt="aseemGupta.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Aseem Gupta | YouTube" width="22px" src="https://www.youtube.com/channel/UCgfFtRrVLDIaW48YND05JrQ/videos/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Aseem Gupta | YouTube" width="22px" src="https://www.youtube.com/videos/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Aseem Gupta | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Aseem Gupta| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Aseem Gupta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
